@@ -1,0 +1,6 @@
+credentials.json
+token.json
+my_deadlines.csv
+.ipynb_checkpoints/
+.env
+__pycache__/
